@@ -1,0 +1,7 @@
+save
+save
+show
+history
+execute_script script1.txt
+history
+exit
